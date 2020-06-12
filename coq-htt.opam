@@ -10,10 +10,11 @@ authors: [
   "Ilya Sergey"
   "Germán Delbianco"
 ]
-homepage: ["https://github.com/TyGuS/htt"]
-bug-reports: ["https://github.com/TyGuS/htt"]
+homepage: "https://github.com/TyGuS/htt"
+bug-reports: "https://github.com/TyGuS/htt"
 dev-repo: "git+https://github.com/TyGuS/htt.git"
 synopsis: "Hoare Type Theory"
+license: "GPL-3.0"
 description: ""
 
 build: [ make ]
